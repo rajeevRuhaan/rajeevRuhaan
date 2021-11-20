@@ -23,3 +23,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevRuhaan&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=rajeevRuhaan&column=9&theme=gruvbox&no-frame=true"/>
+
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevRuhaan&show_icons=true&theme=tokyonight)
