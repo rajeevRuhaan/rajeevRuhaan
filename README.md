@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently a student of Helsinki Business College joined FullStack web-developer program in January, 2021. The program duration is of 18 months.
-- 🌱 I’m currently learning  HTML, CSS, JS, React and PHP.
-- 🌱 I am also good working with JAVA, Node, Express, MongoDB, MySQL.
+- 🌱 I’m currently learning  HTML, CSS, JS, React, and PHP .
+- 🌱 I am also good working with JAVA, Node, Express, MongoDB, MySQL, Drupal, Docker.
 
 - 💬 I like traveling and cycling. I love soft music.
 - 📫 How to reach me: urrajivin@hotmail.com
@@ -25,7 +25,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/drupal/drupal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevRuhaan&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
