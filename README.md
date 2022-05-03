@@ -10,10 +10,12 @@
 - 🌱 I am also good working with JAVA, Node, Express, MongoDB, MySQL, Drupal, Docker.
 
 - 💬 I like traveling and cycling. I love soft music.
-- 📫 How to reach me: urrajivin@hotmail.com
 
 📫 How to reach me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rajeevsah)
+
+1. urrajivin@hotmail.com
+
+2. [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rajeevsah)
 
 
 #### Languages and Tools
