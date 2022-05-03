@@ -12,6 +12,10 @@
 - 💬 I like traveling and cycling. I love soft music.
 - 📫 How to reach me: urrajivin@hotmail.com
 
+📫 How to reach me:
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rajeevsah)
+
+
 #### Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
