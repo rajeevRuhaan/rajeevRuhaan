@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently on job hunting. I have completed my vocational degree in Information and Communication Technology from Helsinki Business College in June 2022.
-- 🌱 I’m currently self learning and developing skills in React. 
+- 🌱 I’m currently self learning and developing skills in React. I am currently learning authentication and Oauth from Linkden Learning (Shaun Wassell).
 - 🌱 I am also good working with Node, Express, MongoDB, MySQL, and Docker.
 
 - 💬 I like traveling and cycling. I love soft music.
