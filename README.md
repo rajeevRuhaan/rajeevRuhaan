@@ -5,9 +5,9 @@
 -->
 
 
-- 🔭 I’m currently a student of Helsinki Business College joined FullStack web-developer program in January, 2021. The program duration is of 18 months.
-- 🌱 I’m currently learning  HTML, CSS, JS, React, and PHP .
-- 🌱 I am also good working with JAVA, Node, Express, MongoDB, MySQL, Drupal, Docker.
+- 🔭 I’m currently on job hunting. I have completed my vocational degree in Information and Communication Technology from Helsinki Business College in June 2022.
+- 🌱 I’m currently self learning and developing skills in React. 
+- 🌱 I am also good working with Node, Express, MongoDB, MySQL, and Docker.
 
 - 💬 I like traveling and cycling. I love soft music.
 
