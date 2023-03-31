@@ -17,7 +17,7 @@
 
 2. [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rajeevsah)
 
-![codewar]https://www.codewars.com/users/rajeevRuhaan/badges/large
+![](https://www.codewars.com/users/rajeevRuhaan/badges/large)
 
 #### Languages and Tools
 
